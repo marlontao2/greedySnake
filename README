@@ -4,4 +4,4 @@ g++ snake.cpp -std=c++11 -o snake -lncurses,
 
 
 
-test
+test222
